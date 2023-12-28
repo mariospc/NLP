@@ -1,0 +1,44 @@
+Established front-end engineering background with at least 3 years of corporate experience
+Robust JS and React knowledge
+Solid knowledge of design patterns and unit-testing
+Experience working in agile environment
+"Small-company" mentality: Team spirit, curiosity to learn new highly-scientific topics, and strong sense of initiative
+Understand, refine and address technical and design requirements
+Develop high-quality web applications and library components
+Write well-designed, testable code to develop functional and high quality web applications
+Upgrade and maintain existing applications
+Identify, prioritize and execute tasks in the software development life cycle
+Stay up-to-date on the evolution and emergence of relevant technologies, standards and tools
+
+
+Requirements
+
+Solid working knowledge of Javascript & HTML5/CSS3
+Proven experience with React or other JS frameworks and/or relevant technologies
+A keen interest in web technologies and an appreciation of the browser
+A good understanding of the frontend/backend productivity cycles
+University degree (or equivalent) in a relevant subject
+At least 2 years' of work experience as a software engineer / developer
+To qualify for this role, you’ll have to meet the following criteria:
+1+ year of industry experience in software development.
+Degree in computer science, digital technology, mathematics, physics, or similar -- or comparable experience.
+Thorough knowledge of JavaScript, CSS, HTML.
+Good understanding of modern JavaScript libraries and frameworks, such as React, Angular or Vue.
+Strong communication and collaboration skills.
+Excellent problem-solving and learning ability.
+Ability to rapidly acquire new software skills and work with new technologies.
+Appreciate great design and thrive in a creative environment.
+Military obligations must be fulfilled (if applicable).
+Proven literacy in English.
+
+
+If you also meet any of the following, even better:
+Industry software development experience using JavaScript.
+Industry software development experience using a popular JavaScript Framework like React, Angular or Vue.
+Software development experience using source control systems such as Git.
+Familiarity with browser testing and debugging.
+Experience with automated testing practices.
+Knowledge of SEO principles.
+Experience working on small to medium‐sized agile teams.
+Experience with commonly used 3rd party libraries and services.
+Experience with task planning and estimating effort.

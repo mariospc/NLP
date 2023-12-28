@@ -1,0 +1,20 @@
+Strong programming skills in Python and SQL, with at least intermediate level proficiency in HackerRank challenges for both
+Platform experience in Oracle, Azure, and Snowflake
+Knowledge of code version control, CI/CD, testing, and debugging
+Ability to plan for the long term and proactively address misalignments
+Positive attitude and willingness to participate in knowledge sharing and training
+Excellent problem-solving and communication skills.Having 3+ years of hands-on experience with all aspects of design, developing, testing, and implementing ETL (data warehousing) solutions. 
+Experience in working with MPP systems (Hadoop, Hive, Spark)
+Advanced scripting skills - Python + Basics of Unix/Linux Shell scripting
+Advanced hands-on experience in SQL and Database technologies (Teradata (preferred) /Oracle/Mysql/Bigquery)
+Working experience in cloud data warehouse systems (GCP is a preference)
+Experience with performance optimization and Production support. 
+Solid understanding of SDLC, software best practices, and development methodologies
+Experience with packaging and release management. 
+Strong analytical and diagnostic skills
+Excellent verbal and written communication skills
+Ideally, 2+ years of experience in Data Engineering/Science or BI roles or even Software Engineering ones 
+Strong experience with SQL Databases
+Experience with ETL processes (Airflow could be a plus)
+Coding skills ideally in Python (however, Spark or Java could work great)
+Experience with Big Data/Cloud and Streaming tech would give a huge advantage

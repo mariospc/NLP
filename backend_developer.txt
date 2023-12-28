@@ -1,0 +1,67 @@
+What will you do? Develop further the platform that manages the AI-based automated decision-making. As a Backend Engineer, you will:
+· Develop, optimize and maintain the backend architecture of our platform.
+· Ensure the scalability and reliability of our platform to handle large amounts of data and traffic.
+· Collaborate with other teams to integrate machine learning models and algorithms into the platform.
+· Develop and maintain APIs to enable communication with our front-end and third-party services.
+· Monitor and optimize the performance of our platform.
+· Design and implement DevOps processes, including automation of deployment and monitoring.
+· Troubleshoot and resolve issues with the platform as they arise
+· Apply secure coding principles to prevent vulnerabilities
+· Conduct threat modelling to identify potential risks and vulnerabilities in the back-end systems.
+· Understand and adhere to corporate information security, business continuity and compliance policies & procedures.
+· Stay informed about emerging threats, cybersecurity trends, and best practices through continuous learning and professional development.
+· Maintain a proactive mindset and adaptability to address evolving cybersecurity challenges and technologies
+ 
+
+Which skills are we looking for?
+
+· Proven experience as a Backend Engineer or similar role
+· Understanding of data structures, data modelling and software architecture
+· Ability to write robust code in Javascript, Python
+· Ability to detect and respond to cybersecurity threats
+· Ability to write code with security in mind, implementing secure coding standards, and preventing common vulnerabilities.
+· Experience with cloud infrastructures (e.g. Microsoft Azure, GCP, AWS)
+· Familiarity with databases, particular SQL and NoSQL
+· Familiarity with DevOps processes, including continuous integration and deployment
+· Familiarity with Secure Devops processes and standards
+· Excellent communication skills
+· Ability to work in a team
+· Outstanding analytical and problem-solving skills
+· BSc in Computer Science, Mathematics or similar field; Master’s degree is a plus
+We are looking for passionate Senior-level .NET developers to join our growing team. The positions involve working on various web projects using mainly C#/.NET / .NET Core technology stacks. The successful candidates must be experienced in the field of software development and eager to contribute, work and adapt in a fast-paced, ever-changing environment.
+ 
+Responsibilities
+
+ 
+-You will be a valuable member of agile teams, designing and implementing features in our solutions
+-You will contribute to all phases of the project delivery lifecycle and work closely with business analysts, other software and test engineers
+
+
+ 
+Requirements
+
+ 
+Must-have qualifications:
+
+ 
+
+-You are a software developer with a multi-year (5+) working experience as a Senior .NET Developer or similar role
+-You have a Bachelor’s Degree or equivalent in Computer Science, Software Engineering or any other related field
+-You have extended experience/knowledge in:
+ 
+Clean code, Design patterns, SOLID Principles
+.NET Technologies (.NET 6, .NET Framework 4.8, ASP.NET (Framework and Core) MVC, Web API)
+C# 10 and .NET (Background tasks, async / await, Parallel processing, Value objects, Records, async IEnumerable, SignalR, Implicit operators, Pattern Matching - switch expressions, Creation of Libraries and Middleware)
+Entity Framework 6 (Basic EF - Fluent API, Code-First integrations, Query filtering, Split merge, Advanced EF, EF interceptors)
+Testing (Unit testing, Xunit, Respawn, Fluent Assertions)
+Relational Databases (MS SQL Advanced knowledge and performance)
+Developing in Azure environment
+ 
+ 
+Highly appreciated qualifications:
+
+ 
+
+Front-End technologies (Angular template driven forms, Reactive forms, Advanced RxJS, Modules, Lazy loading, Object Oriented JavaScript, HTML5, SASS)
+Other tools and technologies (Active directory, distributed caching w/ REDIS, RabbitMQ, Mediator Pattern w/ mediatR tools, CQRS, Memory and document caching w/ Lucene and NoSQL DB, JSON - Performance for json, Azure CI/CD, Structured logging w/ Serilog, Kubana-ElasticSearch, No SQL DB,HTTP/3, GraphQL, Blazor
+Bulk operations, gRpc, microservices, dapper
